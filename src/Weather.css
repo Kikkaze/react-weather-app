@@ -1,0 +1,34 @@
+body {
+  background-image: url("./background.jpg");
+}
+
+.Weather {
+  margin: 200px 0;
+  max-width: 800px;
+
+}
+
+.Weather form {
+ max-width: 600px;
+ margin: 0 auto; 
+}
+
+.Weather ul {
+  padding-left: 0;
+}
+
+.Weather li {
+  list-style: none;
+  padding-left: 0;
+}
+
+.Weather .weatherApp {
+  max-width: 700px;
+  margin: 50px auto 10px;
+  padding-top: 60px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 0.3);
+}
